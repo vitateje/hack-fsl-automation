@@ -1,4 +1,4 @@
-## Automation template with Cypress and Cucumber
+## FSL challenge
 
 ---
 ## Requirements
@@ -44,7 +44,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Install
 
     $ 
-    $ cd automation-template-cypress-cucumber
+    $ cd hack-fsl
     $ npm install
 
 ## Configure app
