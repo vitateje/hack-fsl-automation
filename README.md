@@ -1,4 +1,4 @@
-## FSL challenge
+## FSL test automation challenge
 ### **Goals**
 
 You have one hour (1H) to complete the following goals:
