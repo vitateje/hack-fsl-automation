@@ -1,4 +1,11 @@
 ## FSL challenge
+### **Goals**
+
+You have one hour (1H) to complete the following goals:
+
+- Select an automation framework and setup to use with this project.
+- Create an Object Model Page for each component in the project using the data-testid.
+- Create all the E2E tests that you consider necessary in order to cover the functionality of the app.
 
 ---
 ## Requirements
