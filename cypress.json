@@ -2,5 +2,5 @@
     "viewportWidth": 1024,
     "viewportHeight": 768,
     "defaultCommandTimeout": 10000,
-    "baseUrl": "http://demo.automationtesting.in/Register.html"
+    "baseUrl": "http://localhost:3000/"
 }
