@@ -44,7 +44,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Install
 
     $ 
-    $ cd automation-template-cypress-cucumber
+    $ cd hack-fsl-automation
     $ npm install
 
 ## Configure app
